@@ -1,5 +1,5 @@
 import React from "react";
-import "./homeStyles.css";
+import "./HomeStyles.css";
 import Layout from "../components/Layout/Layout";
 
 const Projects = () => {
