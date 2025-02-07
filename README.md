@@ -1,6 +1,6 @@
 # 🚀 My Personal Portfolio
 
-Welcome to my personal portfolio! This website showcases my skills, projects, and experience as a **MERN stack developer**. Built with **React, Bootstrap, and Framer Motion**, it features an interactive and responsive design, along with **dark mode functionality**.
+Welcome to my personal portfolio! This website showcases my skills, projects, and experience as a **MERN stack developer**. Built with **React, Bootstrap, and Framer Motion**, it features an interactive and responsive design, along with.
 
 
 
