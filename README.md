@@ -1,7 +1,6 @@
 # 🚀 My Personal Portfolio
 
-Welcome to my personal portfolio! This website showcases my skills, projects, and experience as a **MERN stack developer**. Built with **React, Bootstrap, and Framer Motion**, it features an interactive and responsive design, along with.
-
+Welcome to my personal portfolio! This website showcases my skills, projects, and experience as a **MERN stack developer**. Built with **React, Bootstrap, and Framer Motion**, it features an interactive and responsive design.
 
 
 ## 🛠️ Tech Stack  
@@ -9,12 +8,10 @@ Welcome to my personal portfolio! This website showcases my skills, projects, an
 - **Deployment:** Vercel  
 
 ## 🔗 Live Demo  
-Check out my portfolio here: **[Live Link]()**  
+Check out my portfolio here:  
+👉 **[Live Portfolio](https://akshay-portfolio-git-main-akshay-kocharekars-projects.vercel.app/)**  
 
 
 
-## 🚀 Getting Started  
 
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/your-username/akshay-portfolio.git
+
